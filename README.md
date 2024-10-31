@@ -12,4 +12,5 @@ Engine and model is created in models.py file.
 step3: C.R.U.D. operations.
 app.py file is used to perform crud operation on user model.
 
-
+step4: ordering the data.
+app1.py is used to perform ordering on user model.

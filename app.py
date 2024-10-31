@@ -7,9 +7,8 @@ Session = sessionmaker(bind=engine)  # This is used to tell which database shoul
 
 session = Session()
 
-user1 = User(name="Prajun v", age=25)
-
 # # inserted a data into the user table.
+# user1 = User(name="Prajun v", age=25)
 # session.add(user1)
 # session.commit() # To commit the changes to the database.
 
