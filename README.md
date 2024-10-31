@@ -14,3 +14,6 @@ app.py file is used to perform crud operation on user model.
 
 step4: ordering the data.
 app1.py is used to perform ordering on user model.
+
+step5: Learn to filter data.
+app2.py is used to perform filter on user model.
